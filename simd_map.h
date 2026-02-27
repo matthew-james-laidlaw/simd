@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "simd.h.h"
+#include "simd.h"
 
 namespace simd
 {
